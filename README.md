@@ -6,5 +6,5 @@ by the chain-connected ladder-style information flows.
 2.   Semantic segmentation is a vital task in computer vision used to assign currosponding semantic labels to individual pixels in images and has applications in automatic driving, medical imaging etc.
 3. FCN's gain increasing receptive feild and high level contexts - through cascaded convolution and pooling layers. However, continuous downsampling process causes loss of spatial details, resulting in poor object delination.
 
-- I developed the model architecture as explained in the paper and ran it for 70 but stopped at 53 epochs since the metrics stopped improving. 
+- I developed the model architecture as explained in the paper and ran it for 70 but stopped at 53 epochs since the metrics stopped improving. Link: https://arxiv.org/pdf/2002.12041.pdf
 - I got a final accuracy of Accuracy is 69.96%; Mean IoU as 46.84 and Dice Coefficient as 62.64 on my test dataset.
